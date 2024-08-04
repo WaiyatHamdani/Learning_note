@@ -1,4 +1,4 @@
-//console array push(),pop(),reverse(),sort(),shift()
+//console array push(),pop(),reverse(),sort(),shift() ,indexOf()
 //console.log(listA.length);
 
 const marveluniverse =["avenger", "xforce","waiyatforce"];
